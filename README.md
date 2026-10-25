@@ -1,45 +1,47 @@
-Hi, I'm George Pontier.
+# Hi, I'm George Pontier
 
-QA Lead | Software Quality Assurance Engineer | Automation Testing
+### QA Lead | Software Quality Assurance Engineer | Automation Testing
 
-I'm a Software QA professional with experience leading quality assurance activities for web applications, mobile platforms, APIs, and enterprise systems.
+I'm a Software QA professional experienced in leading quality assurance activities for web applications, mobile platforms, APIs, and enterprise systems.
 
-My focus is on delivering reliable software through functional testing, regression testing, API validation, defect management, and test automation.
+My focus is delivering reliable software through functional testing, regression testing, API validation, defect management, and test automation.
 
-*Technical Skills
+## Technical Skills
 
-Manual Testing: Functional, Regression, Smoke, Integration, and UAT
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-API Testing: Postman, REST APIs, GraphQL
+**Testing expertise**
+- Manual Testing: Functional, Regression, Smoke, Integration, UAT
+- API Testing: REST, GraphQL, Postman
+- Database Testing: SQL Server, SQL Queries, Data Validation
+- Web & Mobile Testing: Android, iOS, Cross-Browser Testing
+- Test Management: Azure DevOps, Jira, Bug Reporting
+- Methodologies: Agile, Scrum, SDLC, STLC
 
-Database Testing: SQL Server, SQL Queries, Data Validation
+## Currently Learning
 
-Test Management: Azure DevOps, Jira, Test Cases, Bug Reports
+- Playwright & TypeScript
+- Test Automation Framework Design
+- CI/CD with GitHub Actions
 
-Web & Mobile Testing: Android, iOS, Cross-Browser Testing
+## Current Projects
 
-Automation: Learning Playwright and TypeScript
+- Building a Playwright web automation framework
+- Developing API testing examples
+- Creating professional QA test documentation
 
-Methodologies: Agile, Scrum, SDLC, STLC
+## Professional Goals
 
-*What I'm Working On
+Continue growing as a QA Automation Engineer, contribute to high-quality software projects, and collaborate with international teams.
 
-Building automated testing frameworks using Playwright
+**Open to remote QA opportunities and freelance projects.**
 
-Improving API testing and automation skills
+## Connect With Me
 
-Developing professional QA projects and test documentation
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-pontier-346165158/)
 
-Expanding my expertise in CI/CD and GitHub Actions
-
-*Professional Goals
-
-My goal is to continue growing as a QA Automation Engineer, contribute to high-quality software projects, and collaborate with international teams.
-
-Open to remote QA opportunities and freelance projects.
-
-Let's Connect
-
-GitHub: https://github.com/evansx019
-
-LinkedIn: https://www.linkedin.com/in/george-pontier-346165158/
+[GitHub Profile](https://github.com/evansx019)
